@@ -1,0 +1,17 @@
+{
+  "name": "JSONTEST",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "waki285",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "http": "0.0.1-security",
+    "querystring": "^0.2.1"
+  }
+}
